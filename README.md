@@ -14,6 +14,14 @@ The database was designed to easily track the entire journey of each individual 
 ## My analysis<br>
 The company's goal was to use the data we had to track the movements of mail carriers and their deliveries. However, the database presented some issues, including the presence of repeated data and anomalous frequencies regarding deliveries per mail carrier.
 
+![9](https://user-images.githubusercontent.com/119680854/219975351-e6cb35ad-29fa-4bbe-8889-3d9c0467eff8.png)
+![7](https://user-images.githubusercontent.com/119680854/219975344-f4fbae0b-8f40-4b32-a0e0-6a185ab26336.png)
+![8](https://user-images.githubusercontent.com/119680854/219975350-a4e0362f-1d9a-43e5-8d5c-a92e534a0a06.png)
+
 
 ## Highlights<br>
-He
+Here, you can find some of the key highlights of the code I use and view examples of the results. To explore the rest of the code, you can access it from this [link](https://github.com/ludovicato/SQL_BigQuery_DataStudio_analysis/blob/37c63b838daa6fa69356c24d0e9a7db99963728c/Main_queries.sql) or you can check it in my [thesis].
+
+![3](https://user-images.githubusercontent.com/119680854/219969190-dbfa8efd-ecb7-4b8e-87ff-e1b38e658426.png)
+![4](https://user-images.githubusercontent.com/119680854/219969717-ae12d4ce-2bda-48e6-9316-a95c3c559ab8.png)
+![6](https://user-images.githubusercontent.com/119680854/219972829-c1018867-dc4d-4791-adb2-490ad01a4294.png)
