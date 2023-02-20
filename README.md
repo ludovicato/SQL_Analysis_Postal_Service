@@ -12,12 +12,16 @@ The database was designed to easily track the entire journey of each individual 
 
 
 ## My analysis<br>
-The company's goal was to use the data we had to track the movements of mail carriers and their deliveries. However, the database presented some issues, including the presence of repeated data and anomalous frequencies regarding deliveries per mail carrier.
+The company's goal was to use the data we had to track the movements of mail carriers and their deliveries. However, the database presented some issues, including the presence of repeated data and anomalous frequencies regarding deliveries per mail carrier. My main objective throught my internship was to determine if the data we had were actually usable or not.
+
+I carried a general analysis on the database to familiarize myself with the data, then proceeded to check for missing data. Luckily, while the database presented many out of scale values, the presence of null values was close to 0% for all relevant fields.
+
+I realized my research with PostreSQL using some of the Google Cloud Platform technologies, specifically BigQuery, Looker Studio (still referred to as 'Data Studio' at the time of my research) and BigQuery Geo Viz.
+
+
 
 ![9](https://user-images.githubusercontent.com/119680854/219975351-e6cb35ad-29fa-4bbe-8889-3d9c0467eff8.png)
 ![7](https://user-images.githubusercontent.com/119680854/219975344-f4fbae0b-8f40-4b32-a0e0-6a185ab26336.png)
-![8](https://user-images.githubusercontent.com/119680854/219975350-a4e0362f-1d9a-43e5-8d5c-a92e534a0a06.png)
-
 
 ## Highlights<br>
 Here, you can find some of the key highlights of the code I use and view examples of the results. To explore the rest of the code, you can access it from this [link](https://github.com/ludovicato/SQL_BigQuery_DataStudio_analysis/blob/37c63b838daa6fa69356c24d0e9a7db99963728c/Main_queries.sql) or you can check it in my [thesis].
